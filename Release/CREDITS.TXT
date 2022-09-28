@@ -1,0 +1,19 @@
+[Background music]
+- Song: "OHC 469 Simple Mayhem.mp3" 
+- Author: Timothy Stiles
+- Author Link: https://soundcloud.com/patashu
+- License: "This song is Creative Commons licensed."
+
+[snd_time.wav"
+- Created using Bfxr program.
+- Link: https://www.bfxr.net/
+
+[Fonts]
+- Viga-Regular.ttf
+- License: "Open Font License"
+
+[Coding]
+- Author: Carl Mesias
+- Alias: Cmesias
+- Link: http://cmesias.itch.io
+- Link2: https://github.com/cmesias
