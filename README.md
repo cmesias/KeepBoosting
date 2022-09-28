@@ -1,5 +1,8 @@
-# KeepBoosting
- My "Keep Moving" themed sbmission for the Itch Io Game Jam: "One Game a Month #16".
+# About
+ My game submission "Keep Boosting!!" for the "Keep Moving" themed GameJam on Itch io: "One Game a Month #16".
+ 
+ # GameJam Link
+  https://itch.io/jam/one-game-a-month-16
 
 # Screenshots
 ![sc1](https://user-images.githubusercontent.com/17791454/192685390-35abc8b8-9b63-4294-8ad2-74687e976570.png)
