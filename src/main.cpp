@@ -26,8 +26,6 @@ using namespace std;
 
 #include "init.h"
 
-// TODO find out how gears work ina  car
-
 int main(int argc, char **argv) {
 
 	// Initialize Everything

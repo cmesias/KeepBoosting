@@ -1075,7 +1075,7 @@ void Render() {
 
 			// Render text above player 1
 			tempss.str(std::string());
-			tempss << "Boosting!";
+			tempss << "Boost!!";
 			gText.loadFromRenderedText(tempss.str().c_str(), white, gFont12);
 			gText.render(trashBinX + 5, trashBinY+5, gText.getWidth(), gText.getHeight());
 
